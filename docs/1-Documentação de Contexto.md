@@ -28,8 +28,8 @@ Descreva a importância ou a motivação para trabalhar com o tema escolhido. In
 O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
 
 > **Links Úteis**:
-> - (https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2022-09/70-dos-idosos-nao-se-sentem-seguros-na-internet-diz-pesquisa)
-> - 
+> - [Agência Brasil](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2022-09/70-dos-idosos-nao-se-sentem-seguros-na-internet-diz-pesquisa)
+> - [G1.Globo](https://g1.globo.com/jornal-nacional/noticia/2023/07/03/numero-de-golpes-contra-pessoas-idosas-cresce-mais-de-70percent-em-2023.ghtml)
 
 ## Público-Alvo
 
