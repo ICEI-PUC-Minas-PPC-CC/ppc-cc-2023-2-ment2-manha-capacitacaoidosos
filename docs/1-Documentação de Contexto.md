@@ -28,7 +28,8 @@ Descreva a importância ou a motivação para trabalhar com o tema escolhido. In
 O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - (https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2022-09/70-dos-idosos-nao-se-sentem-seguros-na-internet-diz-pesquisa)
+> - 
 
 ## Público-Alvo
 
