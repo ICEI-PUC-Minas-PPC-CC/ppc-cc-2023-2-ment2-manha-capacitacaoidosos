@@ -28,4 +28,4 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-O público alvo destinado ao nosso projeto, é o de idosos que tem vontade ou precisam aprender a como melhorar o uso de celulares, seja para uso pessoal ou comercial.
+ O público alvo destinado ao nosso projeto, é o de idosos que tem vontade ou precisam aprender a como melhorar o uso de celulares, seja para uso pessoal ou comercial.
