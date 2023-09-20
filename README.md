@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Jeff Bezos
+- Luiz Felipe Loro Piva
 - Bill Gates
 - Larry Ellison
 - Mark Zuckerberg
