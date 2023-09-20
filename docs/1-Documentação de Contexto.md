@@ -18,9 +18,12 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+Esse projeto, é bem facíl de ser justificado, levando em conta diversos fatores problemáticos que podem ser solucionados, entre eles os principais são:
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+•	Sete em cada dez idosos que usam a internet afirmam que não se sentem confortáveis no mundo digital. Os principais sentimentos citados pelas pessoas com 60 anos ou mais, quando estão lidando com redes sociais ou ferramentas digitais, é o medo e segurança.
+
+•	No ano de 2023, cresceu cerca de 70% o número de golpes contra idosos na internet, apenas nos cinco primeiros meses foram registradas mais de 15 mil denúncias de violações financeiras ou materiais, 73% a mais que no mesmo período no ano de 2022.
+
 
 > **Links Úteis**:
 > - [Agência Brasil](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2022-09/70-dos-idosos-nao-se-sentem-seguros-na-internet-diz-pesquisa)
@@ -28,4 +31,4 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
- O público alvo destinado ao nosso projeto, é o de idosos que tem vontade ou precisam aprender a como melhorar o uso de celulares, seja para uso pessoal ou comercial.
+O público alvo destinado ao nosso projeto, é o de idosos que tem vontade ou precisam aprender a como melhorar o uso de celulares, seja para uso pessoal ou comercial.
