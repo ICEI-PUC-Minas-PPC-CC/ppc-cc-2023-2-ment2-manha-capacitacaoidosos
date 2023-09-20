@@ -1,7 +1,7 @@
 # Capacitação de idosos
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: MENTORING II`
 `20XX - Semestre XX`
 
 ## Integrantes
