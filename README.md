@@ -13,7 +13,8 @@
 
 ## Professor
 
-- Mestre Yoda
+- Diego
+- Luciana
 
 # Documentação
 
