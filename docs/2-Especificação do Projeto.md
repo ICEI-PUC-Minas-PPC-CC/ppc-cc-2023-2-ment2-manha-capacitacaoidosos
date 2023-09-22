@@ -10,8 +10,7 @@ Exemplo:
 
 |**Sandro Pipoca**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/img/Sandro_Pipoca.png" width="200" height="200"/>|**Idade:** 69 anos. 
-**Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentado.  |**Atribuições:** Compras Online. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/img/Sandro_Pipoca.png" width="200" height="200"/>|**Idade:** 69 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentado.  |**Atribuições:** Compras Online. 
 |**Motivações:** Aprender a fazer compras online sem sofrer com golpes.  |**Frustações:** Foi vitima de golpes online.   |**Hobbies, história:** Sandro gosta muito de fazer compras online, porém após suas experiências negativas está com medo de cair em outro golpe, gostaria muito de saber navegar de forma segura sem cair nas mãos de pessoas má intencionadas.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
