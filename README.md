@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Luiz Felipe Loro Piva
-- Bill Gates
+- Flavio de Carvalho Cury
 - Henrique Luiz de Almeida Lopes
 - Mark Zuckerberg
 
