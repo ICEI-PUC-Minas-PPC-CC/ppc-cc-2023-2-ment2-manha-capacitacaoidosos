@@ -15,7 +15,7 @@ Exemplo:
 
 |**Percival Nascimento**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/img/Sandro_Pipoca.png" width="200" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentado.  |**Atribuições:** Aprender 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-20…aoidosos/blob/main/docs/img/persival.png" width="200" height="200"/>|**Idade:** 72 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentado.  |**Atribuições:** Aprender 
 |**Motivações:** Frustrado com o caso de sua filha e o fato de não estar incluso nesse novo meio tecnológico de transações, Percival está motivado a aprender como realizar pagamentos remotos através do seu celular  |**Frustações:** Foi impossibilitado de bancar a cirurgia de sua filha por não saber como realizar o pagamento remotamente.   |**Hobbies, história:** Percival é um idoso aposentado que necessitava pagar a cirurgia nos rins de sua filha mais nova, porém estava de viagem nos Estados Unidos. A maneira mais fácil que conseguiu encontrar de ajudá-la seria realizando a transferência do valor através do aplicativo de seu banco no celular. Entretanto, Percival não sabia como realizar o pagamento devido a ser leigo com a tecnologia e não teve escolha a não ser retornar ao Brasil para pagar pessoalmente. .
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
