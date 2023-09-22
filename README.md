@@ -8,7 +8,7 @@
 
 - Luiz Felipe Loro Piva
 - Bill Gates
-- Larry Ellison
+- Henrique Luiz de Almeida Lopes
 - Mark Zuckerberg
 
 ## Professor
