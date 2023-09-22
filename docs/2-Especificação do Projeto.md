@@ -10,7 +10,7 @@ Exemplo:
 
 |**Sandro Pipoca**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 69 anos. 
+<img src="docs/img/Sandro_Pipoca.png" width="200" height="200"/>|**Idade:** 69 anos. 
 **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aposentado.  |**Atribuições:** Compras Online. 
 |**Motivações:** Aprender a fazer compras online sem sofrer com golpes.  |**Frustações:** Foi vitima de golpes online.   |**Hobbies, história:** Sandro gosta muito de fazer compras online, porém após suas experiências negativas está com medo de cair em outro golpe, gostaria muito de saber navegar de forma segura sem cair nas mãos de pessoas má intencionadas.
 
