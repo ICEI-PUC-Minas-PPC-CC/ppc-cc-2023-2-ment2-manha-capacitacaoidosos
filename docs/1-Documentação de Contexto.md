@@ -2,18 +2,12 @@
 O Curso Capacitação de Idosos, vem com a ideia de ajudar a todos que possuem familiares ou amigos idosos que tem certas dificuldades com novos serviços da internet, o que é extremamente comum nessa faixa etária. Hoje em dia as tecnologias surgem e se aprimoram com extrema rapidez, excluindo de certa maneira idosos que costumam demorar mais a se adaptar com o mundo tecnológico do mercado atual, como por exemplo o pagamento via pix. Ao longo do curso todos os idosos terão seus problemas individuas tratados com máximo de cuidado, a fim de tornar as gerações antigas mais capacitadas de navegar com certa segurança nas redes sociais, sites, etc. Serão ensinadas dicas e técnicas da forma mais didática e intuitiva possível para a compreensão de todos!
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-
+Junto ao avanço tecnológico que está cada dia evoluindo mais rapidamente, os idosos sentem cada vez mais dificuldade de se adaptarem sozinhos. Independente do quão intuitivos os aplicativos e sites estão se tornando, o básico para que se torne algo simples de compreender é necessário ser ensinado à eles. Algumas consequências da utilização descuidada de celulares, computadores, tablets dentre outros dispositivos eletrônicos, podemos citar a chance de cairem em golpes, instalarem algum tipo de virus, desconfigurar algumas funções do aparelho e o fato de não utilizarem das inúmeras praticidades por eles concedidas, como a troca de mensagens, aplicativos bancários, compras em lojas virtuais, pesquisas informativas no Google e até mesmo para estudos ou empregos home office. É inegável que a população na faixa etária acima dos sessenta anos está em grande parte excluida dos benefícios tecnológicos, porém ainda somos capazes de incluí-los.
 ## Objetivos
 
 Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-
 
 ## Justificativa
 
