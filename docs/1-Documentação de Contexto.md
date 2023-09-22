@@ -1,6 +1,5 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O Curso Capacitação de Idosos, vem com a ideia de ajudar a todos que possuem familiares ou amigos idosos que tem certas dificuldades com novos serviços da internet, o que é extremamente comum nessa faixa etária. Hoje em dia as tecnologias surgem e se aprimoram com extrema rapidez, excluindo de certa maneira idosos que costumam demorar mais a se adaptar com o mundo tecnológico do mercado atual, como por exemplo o pagamento via pix. Ao longo do curso todos os idosos terão seus problemas individuas tratados com máximo de cuidado, a fim de tornar as gerações antigas mais capacitadas de navegar com certa segurança nas redes sociais, sites, etc. Serão ensinadas dicas e técnicas da forma mais didática e intuitiva possível para a compreensão de todos!
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
