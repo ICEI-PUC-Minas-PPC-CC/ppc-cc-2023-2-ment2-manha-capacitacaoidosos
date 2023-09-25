@@ -9,7 +9,7 @@
 - Luiz Felipe Loro Piva
 - Flavio de Carvalho Cury
 - Henrique Luiz de Almeida Lopes
-- Mark Zuckerberg
+- Alexsandro Bueno
 
 ## Professor
 
