@@ -9,8 +9,8 @@ Data e horário das aulas: Segunda-Feira e quarta-feira, iniciando às 13:30 e f
 
 | Aula   |  Descrição da aula | Duração da aula |
 |  :----:   | ----------- | -------- |
-| Aula 1 |  | 1 Hora. |
-| Aula 2 |  | 2 Horas. |
-| Aula 3 |  | 2 Horas. |
-| Aula 4 |  | 1 Hora. |
+| Aula 1 |  | 1 Hora |
+| Aula 2 |  | 2 Horas |
+| Aula 3 |  | 2 Horas |
+| Aula 4 |  | 1 Hora |
 
