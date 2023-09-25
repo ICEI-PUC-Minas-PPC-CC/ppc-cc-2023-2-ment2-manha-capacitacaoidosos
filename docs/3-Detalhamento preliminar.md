@@ -6,6 +6,7 @@ Duração do curso: 6 horas.
 Data e horário das aulas: Segunda-Feira e quarta-feira, iniciando às 13:30 e finalizando conforme a duração da aula.
 
 
+
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
 | ETAPA 1 | Definição dosproblemas e formação das equipes |
