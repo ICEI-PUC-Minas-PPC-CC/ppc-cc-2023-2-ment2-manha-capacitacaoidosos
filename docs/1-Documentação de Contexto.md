@@ -5,9 +5,7 @@ O Curso Capacitação de Idosos, vem com a ideia de ajudar a todos que possuem f
 Junto ao avanço tecnológico que está cada dia evoluindo mais rapidamente, os idosos sentem cada vez mais dificuldade de se adaptarem sozinhos. Independente do quão intuitivos os aplicativos e sites estão se tornando, o básico para que se torne algo simples de compreender é necessário ser ensinado à eles. Algumas consequências da utilização descuidada de celulares, computadores, tablets dentre outros dispositivos eletrônicos, podemos citar a chance de cairem em golpes, instalarem algum tipo de virus, desconfigurar algumas funções do aparelho e o fato de não utilizarem das inúmeras praticidades por eles concedidas, como a troca de mensagens, aplicativos bancários, compras em lojas virtuais, pesquisas informativas no Google e até mesmo para estudos ou empregos home office. É inegável que a população na faixa etária acima dos sessenta anos está em grande parte excluida dos benefícios tecnológicos, porém ainda somos capazes de incluí-los.
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo do nosso trabalho é poder introduzir as pessoas de idade mais avançada no mundo da tecnologia, dando aulas e suporte de forma dinamica para que eles possam se sentir mais a vontade na hora de postar uma foto, enviar um arquivo, mesagem, e na hora de usar alguns apps disponiveis em seu dispositivo moveis. Sabemos que os idosos hoje em dia são as maiores vitimas de golpes, por cair em email maliciosos e também por acessar sites desconfiaveis, também são em sua maioria os maiores divulgadores de fake news nas midias sociais.
 
 ## Justificativa
 
