@@ -7,7 +7,7 @@ Data e horário das aulas: Segunda-Feira e quarta-feira, iniciando às 13:30 e f
 
 
 
-| Etapa   |  Atividades |
+| Aula   |  Descrição da aula | Duração da aula
 |  :----:   | ----------- |
 | ETAPA 1 | Definição dosproblemas e formação das equipes |
 | ETAPA 2 | <a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a> <br> <a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a>|
