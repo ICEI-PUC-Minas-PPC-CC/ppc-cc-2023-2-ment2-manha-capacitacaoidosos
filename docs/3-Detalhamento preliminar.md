@@ -1,7 +1,7 @@
 # Detalhamento preliminar
 
 ## Cronograma das aulas
-Duração do curso: 6 horas.
+Duração do curso: 8 horas.
 
 Data e horário das aulas: Segunda-Feira e quarta-feira, iniciando às 13:30 e finalizando conforme a duração da aula.
 
