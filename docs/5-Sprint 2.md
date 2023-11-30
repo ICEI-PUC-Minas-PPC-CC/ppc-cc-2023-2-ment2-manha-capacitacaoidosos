@@ -1,4 +1,4 @@
-# Sprint 2
+# Tópicos
 
 Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 2.
 
