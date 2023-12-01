@@ -7,4 +7,4 @@
 [Falas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Falas_criacao_de_email.docx)
 
 # Aulas
-[Aulas]
+[Aulas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Aulas.pptx)
