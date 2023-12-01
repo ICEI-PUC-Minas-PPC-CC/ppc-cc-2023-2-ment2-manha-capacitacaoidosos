@@ -2,3 +2,6 @@
 
 ## Introdução
 [Falas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Falas%20introdu%C3%A7%C3%A3o.docx)
+
+## Como criar e enviar um Email
+[Falas]
