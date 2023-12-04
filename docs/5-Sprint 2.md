@@ -13,7 +13,10 @@
 [Falas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Falas%20aplicativos%20Google.docx)
 
 ## Aplicativos Android
-[Falas]()
+[Falas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Falas%20aplicativos%20Google.docx)
 
-# Aulas
+# Aulas PPTX
 [Aulas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Aulas.pptx)
+
+# Aulas PDF
+[Aulas]()
