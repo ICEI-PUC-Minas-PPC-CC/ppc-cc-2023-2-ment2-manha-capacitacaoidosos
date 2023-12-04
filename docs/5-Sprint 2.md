@@ -19,4 +19,4 @@
 [Aulas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Aulas.pptx)
 
 # Aulas PDF
-[Aulas]()
+[Aulas](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-capacitacaoidosos/blob/main/docs/Aulas.pdf)
