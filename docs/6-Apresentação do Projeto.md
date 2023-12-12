@@ -1,8 +1,6 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-Nesta seção, deverão ser apresentados os itens a seguir:
+ [Vídeo Youtube Experiências](https://www.youtube.com/watch?v=UqoMgGlDKP8)
 
 ## Título do Projeto
 
